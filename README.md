@@ -1,3 +1,11 @@
+.
+.
+.
+.
+.
+.
+.
+.
 Apuntes:
 
 *Dentro de nuestra carpeta BASE tendremos todos los estilos aplicados a ETIQUETAS de tipografias, archivos basicos
