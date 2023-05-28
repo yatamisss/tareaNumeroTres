@@ -1,6 +1,4 @@
-/*
-en el main ocupamos una importacion 
-cuando se importa se le quita el guion bajo y la extencion 
-*/
-
-@import "base/base"
+@import "variables/variables";
+@import "module/module";
+@import "base/base";
+@import "layout/layout";

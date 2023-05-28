@@ -1,0 +1,10 @@
+@mixin padding-comunes {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+@mixin caracteristicas-comunes {
+    display: grid;
+    text-align: center;
+
+}
